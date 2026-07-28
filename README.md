@@ -1,4 +1,4 @@
-# Hi there, I'm Gohar Rehman! 👋
+# Hi there, I'm Gohar Rehman 👋
 
 Welcome to my GitHub profile! I am a passionate developer focused on building clean, efficient applications and continuously expanding my technical toolkit. 
 
