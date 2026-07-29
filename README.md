@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a passionate developer focused on building cl
 ### 🏆 Current GitHub Achievements
 * ⚡ **YOLO** - Merged a pull request without a code review.
 * 🎯 **Quickdraw** - Opened and closed an issue within 5 minutes.
-* 🦈 **Pull Shark** - *[In Progress]* Merging pull requests like a professonal.
+* 🦈 **Pull Shark** - *[In Progress]* Merging pull requests like a pro.
 
 ---
 
